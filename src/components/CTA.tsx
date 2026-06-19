@@ -7,7 +7,7 @@ import React from "react";
 export default function CTA({
   socialLinks = {
     twitter: "https://x.com/KumarNirupam1",
-    github: "https://github.com/KUMARNiru007",
+    github: "https://github.com/KumarNirupam1",
     linkedin: "https://www.linkedin.com/in/kumarnirupam/",
     leetcode: "https://leetcode.com/u/user8723jT/",
     resume:
