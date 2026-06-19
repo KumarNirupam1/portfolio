@@ -71,7 +71,7 @@ const ProfileHeader: React.FC<ProfileHeaderProps> = ({
   profileImage = "/profilepic.webp",
   socialLinks = {
     twitter: "https://x.com/KumarNirupam1",
-    github: "https://github.com/KUMARNiru007",
+    github: "https://github.com/KumarNirupam1",
     linkedin: "https://www.linkedin.com/in/kumarnirupam/",
     medium: "https://medium.com/@kumar.nirupam24",
     resume:
