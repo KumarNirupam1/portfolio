@@ -105,7 +105,7 @@ const Home: React.FC = () => {
                 <SectionBorder className="mt-6" />
               </Reveal>
 
-              <ContributionsDisplay username="KUMARNiru007" />
+              <ContributionsDisplay username="KumarNirupam1" />
 
                <Reveal delay={0.05}>
                 <SectionBorder className="mt-6" />
